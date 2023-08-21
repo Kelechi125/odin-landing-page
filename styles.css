@@ -9,10 +9,10 @@
 
 ul, p.header {
     font-size: 18px;
-    color: E5E7EB;
+    color: #E5E7EB;
 }
 
-h1 {
+h3 {
     font-size: 48px;
     font-weight: extra-bold;
     color: #F9FAF8;
@@ -20,4 +20,10 @@ h1 {
 
 ul {
     list-style-type: none;
+}
+
+.image {
+    width: 400px;
+    height: 200px;
+    background-color: gray;
 }
