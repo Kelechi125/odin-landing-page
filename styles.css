@@ -124,11 +124,27 @@ h2 {
 }
 /* This is the styling for the content-2 section. */
 .content-2 {
-    padding: 50px 90px;
+    height: 300px;
+    /*display: flex;
+    justify-content: center;
+    align-content: center;*/
+    
 }
 
 .blue-box {
     background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.action-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.action-button {
+    
 }
 /* This is the styling for the footer. */
 .footer {
